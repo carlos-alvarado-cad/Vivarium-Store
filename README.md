@@ -1,5 +1,5 @@
 # Cats&Plants Vivarium Store
-### MSSA 18 Week Project Web Application Project in ASP.NET Core
+### MSSA 18 Week Web Application Project in ASP.NET Core
 
 ---
 
