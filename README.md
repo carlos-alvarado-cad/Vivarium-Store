@@ -3,9 +3,9 @@
 
 ---
 
-Carlos Alvarado
-CAD/ MSSA JBSA7
-21 January 2021
+Carlos Alvarado <br/>
+CAD/ MSSA JBSA7 <br/>
+21 January 2021 <br/>
 
 ---
 
@@ -29,7 +29,7 @@ o	The website will be split into two parts: the main store and the educational p
 #### 	Database
 •	 Will be created to hold data such as customer information, orders, and store inventory. (Not sure if this is where pictures and questions are stored).
 •	References
-o	https://www.theterraliving.com/
-o	https://www.etsy.com/shop/TerraLiving
-o	https://www.vivariumsinthemist.com/
-o	https://www.neherpetoculture.com/
++ o	https://www.theterraliving.com/
++ o	https://www.etsy.com/shop/TerraLiving
++ o	https://www.vivariumsinthemist.com/
++ o	https://www.neherpetoculture.com/
