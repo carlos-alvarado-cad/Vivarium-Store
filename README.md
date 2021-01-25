@@ -1,5 +1,5 @@
-# Vivarium-Store
-MSSA 18 Week Project
+# Vivarium Store
+### MSSA 18 Week Project
 
 
 
