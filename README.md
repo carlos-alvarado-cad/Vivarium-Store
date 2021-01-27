@@ -26,10 +26,10 @@ CAD/ MSSA JBSA7 <br/>
 +	Will also have tutorials on how to properly set up their products and how maintain them long term.
 +	Allows the signed in users to ask questions which can be answered publicly for those with similar questions.
 +	Will have a gallery where users can submit photos of their purchased products to share with the community.
-#### •	Database
+#### 	Database
 +	 Will be created to hold data such as customer information, orders, and store inventory. (Not sure if this is where pictures and questions are stored).
-+	References
-+ 	https://www.theterraliving.com/
+#### 	References
+- 	https://www.theterraliving.com/
 + 	https://www.etsy.com/shop/TerraLiving
 + 	https://www.vivariumsinthemist.com/
 + 	https://www.neherpetoculture.com/
