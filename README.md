@@ -14,7 +14,7 @@ CAD/ MSSA JBSA7 <br/>
 + 	I first envisioned my dream of opening a small business constructing vivariums when I built my first one at the age of 15. My first project was not perfect, but it was the start of newfound passion. As I built more vivariums over the years, I slowly started getting better building them and they started looking like masterpieces that people would awe at. At that point, I could not keep count of the amount of people asking me to build one for them and that they would be more than happy to pay. Unfortunately, the amount of time and money it takes to build a decent sized vivarium was not feasible at that point in time. Instead, I had the great idea of making smaller desktop sized vivariums which would be much faster and cheaper to produce at a more attractive price point. This type of vivarium was very popular among Asian countries, but I could not find them anywhere in the US. Hence came the idea to create a web application to show case these pieces of art to the western side of the world.
 
 +	This website will be used both as an online store to purchase said vivariums as well as to educate the customers on upkeeping their products with helpful informational pages on plant and moss care. Not only will customers be able to choose from a variety of sizes, but they will also be able to customize their vivariums with live plant previews and a base of their choice. Users will be able to login to save their preferences and add items to their cart in order to check out. A database will manage and display the inventory available.
----
+----
 ### 	Functionality 
 +	The website will be split into two parts: the main store and the educational page. There will also be a database to hold and organize all the information.
 ---
@@ -37,5 +37,5 @@ CAD/ MSSA JBSA7 <br/>
 + 	https://www.etsy.com/shop/TerraLiving
 + 	https://www.vivariumsinthemist.com/
 + 	https://www.neherpetoculture.com/
-
+---
 [Database Diagram](DatabaseDiagram.pdf)
