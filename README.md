@@ -2,6 +2,7 @@
 ### MSSA 18 Week Web Application Project in ASP.NET Core
 
 ---
+
 <div style="text-align:right"> Carlos Alvarado </div>
 CAD/ MSSA JBSA7
 21 January 2021
