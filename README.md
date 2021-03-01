@@ -3,12 +3,15 @@
 
 ---
 <html>
-<head> </head>
-<body>
-  <div style="text-align:right">Carlos Alvarado</div>
-  <div style="text-align:right">CAD/ MSSA JBSA7o</div>
-  <div style="text-align:right">21 January 2021</div>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <title></title> 
+  </head>
+  <body>
+    <div style="text-align:right">Carlos Alvarado</div>
+    <div style="text-align:right">CAD/ MSSA JBSA7o</div>
+    <div style="text-align:right">21 January 2021</div>
+  </body>
 </html>
 
 ---
