@@ -3,8 +3,8 @@
 
 ---
 
-<div> style="text-align:right"{ Carlos Alvarado }</div>
-<span align="right"> CAD/ MSSA JBSA7 <span/>
+<div> Carlos Alvarado</div>
+<div align-text="right"> CAD/ MSSA JBSA7 <div/>
 21 January 2021 <br/>
 
 ---
