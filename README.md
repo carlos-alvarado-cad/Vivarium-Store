@@ -3,7 +3,7 @@
 
 ---
 Carlos Alvarado<br/>
-style="text-align:right" CAD/ MSSA JBSA7</br/>
+CAD/ MSSA JBSA7<br/>
 21 January 2021<br/>
 
 ---
